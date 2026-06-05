@@ -80,21 +80,7 @@
 | Django | ██████░░░░░░ Learning |
 | Tailwind CSS | █████████░░░ Advanced |
 
----
 
-## 🚀 Projects
-
-> 🔨 Currently building projects — stay tuned!
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔹 Portfolio Website | Personal portfolio showcasing skills & work | HTML, CSS, JS | 🚧 In Progress |
-| 🔹 Full Stack Web App | MERN stack web application | React, Node, MongoDB | 🚧 In Progress |
-| 🔹 Django REST API | Backend API with Django | Python, Django, PostgreSQL | 📅 Planned |
-
-
-
----
 
 ### ✍️ Random Dev Quote
 
